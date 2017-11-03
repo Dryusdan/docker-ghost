@@ -1,0 +1,5 @@
+#!/bin/sh
+cd /ghost
+knex-migrator init
+knex-migrator migrate
+exec npm start
