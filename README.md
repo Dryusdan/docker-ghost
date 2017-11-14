@@ -1,7 +1,5 @@
 ## Dryusdan/ghost
 
-![](https://img.shields.io/badge/Ghost%20version-1.16.0-blue.svg)
-
 
 
 #### What is this? What features?
