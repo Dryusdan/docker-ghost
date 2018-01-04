@@ -1,6 +1,6 @@
 FROM alpine:3.6
 
-ARG VERSION=1.19.0
+ARG VERSION=1.19.2
 
 ENV GHOST_NODE_VERSION_CHECK=false \
     NODE_ENV=production \
